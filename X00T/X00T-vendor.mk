@@ -1173,6 +1173,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libqsocket \
     vendor.qti.hardware.fm@1.0 \
+    CACertService \
     CneApp \
     IWlanService \
     TimeService \
